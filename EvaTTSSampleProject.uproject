@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.20",
+	"EngineAssociation": "4.21",
 	"Category": "",
 	"Description": "",
 	"Enterprise": true,
@@ -11,24 +11,23 @@
 			"LoadingPhase": "Default"
 		}
 	],
-  "Plugins": [
-    {
-      "Name": "EvaTTSPlugin",
-      "Enabled": true,
-      "MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3DF1C53741600D6668A3D795A9C1090E"
-    },
-	{
-		"Name": "SoundVisualizations",
-		"Enabled": true
-	},
-	{
-		"Name": "SoundUtilities",
-		"Enabled": true
-	},
-	{
-		"Name": "ActorSequenceEditor",
-		"Enabled": true
-	}
-  ]
-
+	"Plugins": [
+		{
+			"Name": "EvaTTSPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3DF1C53741600D6668A3D795A9C1090E"
+		},
+		{
+			"Name": "SoundVisualizations",
+			"Enabled": true
+		},
+		{
+			"Name": "SoundUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "ActorSequenceEditor",
+			"Enabled": true
+		}
+	]
 }
