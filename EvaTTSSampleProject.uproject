@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.21",
+	"EngineAssociation": "4.24",
 	"Category": "",
 	"Description": "",
 	"Enterprise": true,
@@ -15,7 +15,7 @@
 		{
 			"Name": "EvaTTSPlugin",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3DF1C53741600D6668A3D795A9C1090E"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3DF1C53741600E6668A3D795A9C1090E"
 		},
 		{
 			"Name": "SoundVisualizations",
@@ -23,10 +23,6 @@
 		},
 		{
 			"Name": "SoundUtilities",
-			"Enabled": true
-		},
-		{
-			"Name": "ActorSequenceEditor",
 			"Enabled": true
 		}
 	]
